@@ -1,2 +1,2 @@
-# Port_Scanner_C
-port scanner made with c
+# Port_Scanner_C, Cpp
+port scanner made with c, Cpp
