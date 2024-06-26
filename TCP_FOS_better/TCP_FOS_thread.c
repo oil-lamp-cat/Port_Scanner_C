@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <unistd.h>
+#include <unistd.h> 
 #include <pthread.h> //스레드
 
 // 추가적인 함수들
